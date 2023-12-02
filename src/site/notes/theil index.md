@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theil index/"}
+{"dg-publish":true,"permalink":"/theil-index/"}
 ---
 
 # 定义：
